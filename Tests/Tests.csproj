@@ -18,6 +18,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
     <ProjectReference Include="..\Assembly-CSharp.csproj" />
+    <PackageReference Include="Entitas" Version="1.13.0"/>
 
 
   </ItemGroup>
